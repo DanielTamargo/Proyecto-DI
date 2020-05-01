@@ -3,8 +3,8 @@ Proyecto final de la asignatura Desarrollo de Interfaces.
 Basado en Android y Kotlin.
 
 ## Descargar el proyecto o la APK
-- [**Proyecto: haz clic aquí para descargar únicamente el .rar con el proyecto**](https://github.com/DanielTamargo/DI-Proyecto/raw/master/Proyecto-Assets/GitHub-VistaPrevia/Proyecto.rar)
-- [**Enlace a Google Drive para descargar la APK** (en algunos móviles no deja instalarla por 'falta de seguridad')](https://drive.google.com/file/d/1d0AYdyW6uqyRQkbqVuUpjsbs5vGDs4ig/view?usp=sharing)
+- [**Proyecto: enlace a Google Drive para descargar el .rar con el proyecto**](https://drive.google.com/a/ikasle.egibide.org/uc?id=1jf-e_ObsARYCxS6BtUCyqa-NuANMmcDe&export=download)
+- [**APK: Enlace a Google Drive para descargar la APK** (en algunos móviles no deja instalarla por 'falta de seguridad')](https://drive.google.com/file/d/1d0AYdyW6uqyRQkbqVuUpjsbs5vGDs4ig/view?usp=sharing)
 
 ## Resumen de la tarea
 *"El proyecto consiste en crear una aplicación para Android utilizando Kotlin como lenguaje de programación.
@@ -47,13 +47,9 @@ Las imágenes de los personajes, iconos de las habilidades, datos de los mapas/p
 
 ![Intro](/Proyecto-Assets/GitHub-VistaPrevia/intro.gif)
 
-![VentanaPrincipal](/Proyecto-Assets/GitHub-VistaPrevia/ventanaprincipal.png)
+![VentanaPrincipal](/Proyecto-Assets/GitHub-VistaPrevia/ventanaprincipal.png) ![VentanaMapas](/Proyecto-Assets/GitHub-VistaPrevia/ventanamapas.png)
 
-![VentanaMapas](/Proyecto-Assets/GitHub-VistaPrevia/ventanamapas.png)
-
-![VentanaPersonajes](/Proyecto-Assets/GitHub-VistaPrevia/ventanapersonajes.png)
-
-![VentanaArmas](/Proyecto-Assets/GitHub-VistaPrevia/ventanaarmas.png)
+![VentanaPersonajes](/Proyecto-Assets/GitHub-VistaPrevia/ventanapersonajes.png) ![VentanaArmas](/Proyecto-Assets/GitHub-VistaPrevia/ventanaarmas.png)
 
 ## Código 'RecyclerView casero'
 

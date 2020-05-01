@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:elevation="10dp"
+    app:title=" "
+    app:titleTextColor="@color/valorant"
+    app:subtitleTextColor="@color/softOrange"
+    app:navigationIcon="@drawable/valorant_logo_1_big2">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valorant"
+        android:fontFamily="@font/valorant_font"
+        android:textSize="24sp"
+        android:textColor="@color/valorant"/>
+
+</androidx.appcompat.widget.Toolbar>

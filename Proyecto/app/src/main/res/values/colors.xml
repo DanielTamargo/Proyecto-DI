@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161b21</color>
+    <color name="colorPrimaryDark">#161b21</color>
+    <color name="smoothBlack">#161b21</color>
+    <color name="negroTransparente">#80000000</color>
+    <color name="smoothGray">#323336</color>
+
+    <color name="colorAccent">#8bd8bd</color>
+    <color name="white">#ffffff</color>
+
+    <color name="darkRed">#611510</color>
+    <color name="valorant">#ff4655</color>
+    <color name="elegantOrange">#b55e12</color>
+    <color name="softOrange">#EC8B5E</color>
+    <color name="smoothOrange">#F4A950</color>
+
+    <color name="smoothDarkBlue">#243665</color>
+    <color name="softBlue">#8AAAE5</color>
+    <color name="notThatSoftBlue">#5b81c7</color>
+    <color name="darkLinkBlue">#197eb5</color>
+</resources>

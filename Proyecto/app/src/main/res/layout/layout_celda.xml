@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8sp"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+
+        card_view:cardCornerRadius="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:id="@+id/fondoImagen"
+                android:scaleType="fitCenter"
+                android:src="@drawable/valorant_mapas_haven"
+                android:background="@color/valorant"
+                android:contentDescription="@string/descripcion" />
+
+            <TextView
+                android:id="@+id/tv_num"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/negroTransparente"
+                android:text="@string/valorant"
+                android:textColor="@color/valorant"
+                android:textColorHighlight="@color/softBlue"
+                android:padding="10dp"
+                android:gravity="center_horizontal"
+                android:layout_alignBottom="@+id/fondoImagen"
+                android:layout_alignParentStart="true"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_descripcion"
+                android:textStyle="bold"
+                android:layout_below="@+id/fondoImagen"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="@string/descripcion" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

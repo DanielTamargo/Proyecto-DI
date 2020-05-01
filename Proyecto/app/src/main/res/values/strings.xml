@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Qué es Valorant</string>
+    <string name="valorant">Valorant</string>
+    <string name="buscar">Buscar</string>
+    <string name="sobre_nosotros">Sobre Nosotros</string>
+    <string name="ultimo_parche">Último Parche</string>
+    <string name="terminos_legales">Términos Legales</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Descripciones -->
+    <string name="descripcion">Descripción</string>
+    <string name="imagenmapahaven">ImagenMapaHaven</string>
+    <string name="imagenmapasplit">ImagenMapaSplit</string>
+    <string name="imagenmapabind">ImagenMapaBind</string>
+    <string name="imagendelmapa">ImagenDelMapa</string>
+    <string name="personaje_personaje">Personaje</string>
+    <string name="nombre_habilidad">Nombre habilidad</string>
+    <string name="descripcion_habilidad">Descripción de la habilidad, lalalala, Omen es una sombra muy sexy, lalalalalala, tiene una voz como la de Reaper del Overwatch lalalla</string>
+    <string name="habilidad1">Habilidad1</string>
+    <string name="habilidad2">Habilidad2</string>
+    <string name="habilidad3">Habilidad3</string>
+    <string name="habilidad4">Habilidad4</string>
+
+    <string name="desliza_con_el_dedo_1"><![CDATA[   ¡Desliza con el dedo! ->]]></string>
+    <string name="desliza_con_el_dedo_2"><![CDATA[<- ¡Desliza con el dedo! ->]]></string>
+    <string name="desliza_con_el_dedo_3"><![CDATA[<- ¡Desliza con el dedo!   ]]></string>
+    <string name="desliza_dedo">¡Desliza con el dedo!</string>
+
+    <string name="volver_al_menu_1"><![CDATA[Volver al menú   ]]></string>
+    <string name="volver_al_menu_2"><![CDATA[   Volver al menú]]></string>
+
+    <string name="anterior_mapa_haven"><![CDATA[<< Ver mapa Haven]]></string>
+    <string name="siguiente_mapa_split"><![CDATA[Ver mapa Split >>]]></string>
+    <string name="anterior_mapa_split"><![CDATA[<< Ver mapa Split]]></string>
+    <string name="siguiente_mapa_bind"><![CDATA[Ver mapa Bind  >>]]></string>
+
+    <!-- Strings Títulos de los mapas -->
+    <string name="haven">&lt;u&gt;HAVEN&lt;/u&gt;</string>
+    <string name="split">SPLIT</string>
+    <string name="bind">BIND</string>
+
+    <!-- Strings Descripciones del mapa Haven -->
+    <string name="haven_desc_1">Haven es el mapa con más puntos para plantar la Spike (bomba). También es el mapa con más lugares que cubrir en defensa: A, B y C, por lo que distribuirse en este mapa cuando toca defender es especialmente complicado.</string>
+    <string name="haven_desc_2">Echemos un vistazo al mapa</string>
+    <string name="haven_desc_3">Para acceder a A, tenemos dos opciones: A Long y A Short, ambas conectadas por A Lobby. B tiene un solo acceso directo: Mid Courtyard. Sin embargo, alguien tendrá que cubrir C Short, pues este punto es clave en la defensa de esta parte del mapa: desde C Short, se puede acceder al punto C y a B a través de C Link.</string>
+    <string name="haven_desc_4">Hay otro punto más para acceder a C: C Long, un lugar que normalmente interesa cubrir con un francotirador. De momento, debido al poco tiempo pasado desde el lanzamiento de la beta cerrada, no se conocen demasiadas tácticas en este mapa. Actualizaremos este artículo en el futuro con las estrategias más utilizadas.</string>
+    <string name="haven_vista_defensores">Activar vista defensores habituales</string>
+
+    <!-- Strings Descripciones del mapa Split -->
+    <string name="split_desc_1">Split es un mapa con una enorme zona central que conecta con los extremos, en los que se encuentran los dos lugares para colocar las bombas. Al no tener teleports, moverse de un punto a otro del mapa llevará bastante tiempo, por lo que hay que tener este factor en cuenta a la hora de distribuirse en defensa.</string>
+    <string name="split_desc_2">Echemos un vistazo al mapa</string>
+    <string name="split_desc_3">Para poder defender todos los posibles puntos de ataque, habrá que cubrir B Main, Mid Bottom y A Main. Defender B Main es razonablemente simple, y los atacante podrán entrar a Mid Bottom por dos lugares: B Link y A Sewer.</string>
+    <string name="split_desc_4">Debido al poco tiempo que ha habido desde el lanzamiento del juego, todavía no se conocen estrategias de cada mapa. Pero algo está seguro, controlar la zona de Mid es vital.</string>
+    <string name="split_vista_defensores">Activar vista defensores habituales</string>
+
+    <!-- Strings Descripciones del mapa Bind -->
+    <string name="bind_desc_1">Este mapa cuenta con dos teletransportes que aumentan enormemente las opciones tanto en ataque como en defensa. Por un lado, tenemos A, al que puede accederse de dos puntos: A Bath y A Cubby. En cuanto a B, cuenta con dos zonas de acceso: B Window y B Garden.</string>
+    <string name="bind_desc_2">Echemos un vistazo al mapa</string>
+    <string name="bind_desc_3">Lo realmente interesante es que los teleports permiten pillar por la espalda a los atacante si estos avanzan sin tener cuidado. El teleport de B lleva directamente a la parte trasera de A Bath, mientras que el teleport de A lleva hasta la entrada de B Window.</string>
+    <string name="bind_desc_4">Es importante que, si estáis atacando, pongáis mucha atención a los sonidos de los dos teletransportes. Si estáis en defensa, hay varios puntos “fuertes” para defender. Desde A Tower, se puede cubrir la salida de A Bath, mientras que otro defensor debería cubrir A Cubby.</string>
+    <string name="bind_desc_5">En cuanto a B, hay que cubrir B Long y cubrir la entrada de B Window (o cubrir dicha localización desde B Hall con un rifle de francotirador).</string>
+    <string name="bind_vista_defensores">Activar vista defensores habituales</string>
+    <string name="anterior">Anterior</string>
+    <string name="tvNumPj">1/5</string>
+
+
+    <string name="siguiente">Siguiente</string>
+    <string name="crear_personaje">Crear Personaje</string>
+    <string name="editar_personaje">Editar Personaje</string>
+    <string name="descripcion_2">Descripción:</string>
+    <string name="link_imagen">Link imagen:</string>
+    <string name="nombre_habilidad_1">nombre habilidad 1</string>
+    <string name="link_directo_a_una_imagen_opcional">link directo a una imagen (opcional)</string>
+    <string name="descripcion_habilidad_1">descripcion habilidad 1</string>
+    <string name="habilidad_2">Habilidad 2</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_habilidad_2">nombre habilidad 2</string>
+    <string name="descripcion_habilidad_2">descripcion habilidad 2</string>
+    <string name="habilidad_3">Habilidad 3</string>
+    <string name="nombre_habilidad_3">nombre habilidad 3</string>
+    <string name="descripcion_habilidad_3">descripcion habilidad 3</string>
+    <string name="habilidad_4">Habilidad 4</string>
+    <string name="nombre_habilidad_4">nombre habilidad 4</string>
+    <string name="descripcion_habilidad_4">descripcion habilidad 4</string>
+    <string name="volver">Volver</string>
+    <string name="guardar">Guardar</string>
+    <string name="habilidad_1">Habilidad 1</string>
+    <string name="m_ximo_16_caracteres">máximo 16 caracteres</string>
+    <string name="_1">1</string>
+    <string name="id">ID:</string>
+    <string name="personaje">Personaje</string>
+    <string name="datos_personaje_a_crear">DATOS PERSONAJE A CREAR</string>
+    <string name="borrar">Borrar</string>
+    <string name="qu_es_valorant">Qué es Valorant</string>
+
+    <string name="queesvalorant_1">¿Qué es Valorant?</string>
+    <string name="queesvalorant_2">Valorant es un juego multijugador de disparos que enfrenta a 2 equipos, cada uno formado por 5 jugadores.</string>
+    <string name="queesvalorant_3">Cada partida jugada se basa en rondas, en cada ronda habrá un equipo atacante y uno defensor.</string>
+    <string name="queesvalorant_4">El equipo atacante dispondrá de una bomba llamada Spike que portará uno de los jugadores (si este jugador muere, la Spike caerá al suelo y otro jugador deberá recogerla)</string>
+    <string name="queesvalorant_5">El objetivo del equipo atacante es, antes de que se acabe el tiempo de la ronda, colocar la bomba en una de las zonas marcadas en el mapa. Una vez plantada dicha bomba, esta tardará un periodo de tiempo en explotar.</string>
+    <string name="queesvalorant_6">Durante este periodo, el equipo atacante tratará de defender la bomba hasta que explote, mientras que el equipo defensor tratará de desactivarla.</string>
+    <string name="queesvalorant_7">Los jugadores cuentan con una única vida por ronda, por lo que si un equipo es exterminado antes de realizar su función, perderá la ronda.</string>
+    <string name="queesvalorant_8">Por ejemplo, si el equipo atacante muere antes de colocar la Spike, perderán la ronda al instante. En cambio, si mueren defendiendo la Spike y esta llega a explotar, aún habiendo muerto todos, ganarán la ronda.</string>
+    <string name="queesvalorant_9">Asimismo, si el equipo defensor muere, perderán la ronda.</string>
+    <string name="queesvalorant_10">Tras 12 rondas disputadas, se produce un cambio de lado, el equipo que ha atacado las 12 primeras rondas pasará a defender, y viceversa.</string>
+    <string name="queesvalorant_11">El vencedor de la partida será el equipo que gane 13 rondas.</string>
+    <string name="queesvalorant_12">Básicamente, Valorant es un juego que mezcla: cooperación, competitividad, precisión con las armas y estrategia.</string>
+    <string name="queesvalorant_13"><a href="https://beta.playvalorant.com/es-es/">¿Quieres probarlo? ¡Haz clic aquí para visitar la página oficial de Valorant y apúntate a la Beta cerrada!</a></string>
+
+
+
+
+</resources>

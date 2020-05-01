@@ -13,6 +13,7 @@ También tendrá que tener una BBDD usando SQLite y Room."*
 
 ## Resumen del proyecto
 Nombre: **Valorant Info**
+
 Utilidad: Proporcionar información sobre el juego y sus distintos mapas, personajes y armas.
 
 ## Elementos usados y motivo
